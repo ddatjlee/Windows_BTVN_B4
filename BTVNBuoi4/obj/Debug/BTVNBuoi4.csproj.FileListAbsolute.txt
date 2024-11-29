@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\bin\Debug\BTVNBuoi4.exe.config
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\bin\Debug\BTVNBuoi4.exe
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\bin\Debug\BTVNBuoi4.pdb
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.Form1.resources
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.Form2.resources
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.exe
+C:\Users\TOSHIBA\source\repos\TestBuoi4\BTVNBuoi4\obj\Debug\BTVNBuoi4.pdb
